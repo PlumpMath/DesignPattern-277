@@ -1,0 +1,1 @@
+include ':buidlerpattern', ':simplefactorypattern', ':factorypattern', ':strategypattern', ':decoratepattern', ':proxypattern'
